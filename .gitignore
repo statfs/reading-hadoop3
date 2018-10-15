@@ -1,0 +1,14 @@
+**/.classpath
+**/.project
+**/.settings
+**/.settings/**
+**/*iml
+**/target
+**/target/**
+**/bin/**
+**/bin
+**/.idea
+**/.idea/**
+.DS_Store
+**/.DS_Store
+.checkstyle
